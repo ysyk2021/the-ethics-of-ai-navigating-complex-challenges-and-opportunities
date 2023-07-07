@@ -33,6 +33,5 @@
   - [The role of governance and regulation in AI](chapter-8-1.md)
   - [International and national perspectives on AI governance and regulation](chapter-8-2.md)
   - [The future of AI governance and regulation](chapter-8-3.md)
-- [Chapter 9: Conclusion](chapter-9.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
