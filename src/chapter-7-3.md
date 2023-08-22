@@ -1,5 +1,4 @@
-Ensuring Accountability in AI
-=========================================================================
+
 
 As AI technology becomes increasingly pervasive, it is important to ensure that its development and implementation are transparent and accountable. In this chapter, we will explore the importance of transparency and accountability in AI, and how it can be ensured in practice.
 

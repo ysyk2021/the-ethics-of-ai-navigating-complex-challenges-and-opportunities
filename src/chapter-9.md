@@ -1,5 +1,4 @@
-Chapter 9: Conclusion
-=====================
+
 
 Summary of Key Themes
 ---------------------

@@ -1,5 +1,4 @@
-Types of bias in AI
-==========================================
+
 
 Bias in AI has become a growing concern as AI becomes more prevalent in our everyday lives. In this chapter, we will explore the different types of bias that can occur in AI systems.
 

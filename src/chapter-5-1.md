@@ -1,5 +1,4 @@
-What is Fairness and Justice in AI?
-====================================================================
+
 
 As artificial intelligence (AI) becomes increasingly integrated into our daily lives, it is important to consider how these technologies impact issues of fairness and justice. In this chapter, we will explore what fairness and justice mean in the context of AI.
 

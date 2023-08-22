@@ -1,5 +1,4 @@
-Historical Overview of AI
-======================================================
+
 
 Artificial intelligence (AI) has a rich history that dates back to ancient times. In this chapter, we will provide an overview of the historical development of AI and how it has evolved over time.
 

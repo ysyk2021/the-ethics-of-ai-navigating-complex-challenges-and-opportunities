@@ -1,5 +1,4 @@
-Chapter 3: Ethical Principles and Frameworks
-============================================
+
 
 Introduction to Ethical Principles
 ----------------------------------

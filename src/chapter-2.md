@@ -1,5 +1,4 @@
-Chapter 2: Understanding AI
-===========================
+
 
 Historical Overview of AI
 -------------------------

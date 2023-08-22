@@ -1,5 +1,4 @@
-International and National Perspectives on AI Governance and Regulation
-=============================================================================================================
+
 
 As the use of artificial intelligence (AI) becomes more widespread, there is an increasing need for governance and regulation to ensure that AI is developed and used responsibly. In this chapter, we will explore international and national perspectives on AI governance and regulation.
 

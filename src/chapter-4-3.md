@@ -1,5 +1,4 @@
-Sources of bias in AI
-============================================
+
 
 As AI becomes more prevalent, it is important to understand the sources of bias that can occur in AI systems. In this chapter, we will explore some of the key sources of bias in AI.
 

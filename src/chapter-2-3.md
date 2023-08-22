@@ -1,5 +1,4 @@
-How AI Works
-=========================================
+
 
 AI systems use algorithms to process data and make decisions or predictions based on that data. In this chapter, we will discuss how AI works, including some common techniques used in AI development.
 

@@ -1,5 +1,4 @@
-Types of AI
-========================================
+
 
 AI can be categorized into different types based on their capabilities and functionalities. In this chapter, we will discuss the three main types of AI: Narrow or Weak AI, General or Strong AI, and Super AI.
 

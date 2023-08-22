@@ -1,5 +1,4 @@
-Why Ethics in AI is Important
-======================================================
+
 
 Artificial intelligence (AI) has the potential to transform many aspects of our lives, from healthcare and transportation to education and entertainment. However, as AI technology continues to evolve, it is important to consider the ethical implications of its development and use.
 

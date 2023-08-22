@@ -1,5 +1,4 @@
-Overview of Bias in AI
-=============================================
+
 
 As AI technology becomes increasingly pervasive, it is important to be aware of the potential for bias in AI systems. In this chapter, we will explore the concept of bias in AI and its implications for society.
 

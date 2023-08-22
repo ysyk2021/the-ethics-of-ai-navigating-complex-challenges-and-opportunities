@@ -1,5 +1,4 @@
-The Importance of Transparency and Accountability in AI
-===================================================================================================
+
 
 Transparency and accountability are crucial to ensuring that artificial intelligence (AI) systems are developed and used responsibly. In this chapter, we will explore the importance of transparency and accountability in AI.
 

@@ -1,5 +1,4 @@
-Chapter 6: Privacy and Security
-===============================
+
 
 The Importance of Privacy and Security in AI
 --------------------------------------------

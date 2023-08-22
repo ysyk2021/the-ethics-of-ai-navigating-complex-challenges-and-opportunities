@@ -1,5 +1,4 @@
-Chapter 7: Transparency and Accountability
-==========================================
+
 
 The Importance of Transparency and Accountability in AI
 -------------------------------------------------------

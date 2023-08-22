@@ -1,5 +1,4 @@
-Transparency in AI decision-making
-==============================================================================
+
 
 Transparency is a key component of ensuring ethical and responsible use of AI. In this chapter, we will focus on the importance of transparency in AI decision-making and ways to achieve it.
 
