@@ -1,5 +1,4 @@
 
-
 Deontological ethics is an ethical framework that emphasizes the importance of following moral rules and principles, regardless of their consequences. In the context of AI, deontological ethics can provide guidance for the development and use of AI systems that adhere to ethical standards and respect individual rights and autonomy.
 
 The Importance of Deontological Ethics in AI

@@ -1,5 +1,4 @@
 
-
 Bias in AI has become a growing concern as AI becomes more prevalent in our everyday lives. In this chapter, we will explore the different types of bias that can occur in AI systems.
 
 Types of Bias in AI
@@ -22,5 +21,4 @@ Conclusion
 ----------
 
 Bias in AI is a complex issue that requires attention and action. Understanding the different types of bias that can occur in AI systems is an important step in addressing this issue. By working to diversify training data, involve diverse stakeholders, and implement oversight and accountability mechanisms, we can help ensure that AI systems are developed and used in an ethical and responsible manner. As AI technology continues to evolve, it is important to prioritize addressing bias in AI as a key ethical consideration.
-
 

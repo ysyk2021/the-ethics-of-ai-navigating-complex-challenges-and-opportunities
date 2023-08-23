@@ -1,5 +1,4 @@
 
-
 Historical Overview of AI
 -------------------------
 

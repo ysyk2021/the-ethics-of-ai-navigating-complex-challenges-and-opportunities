@@ -1,5 +1,4 @@
 
-
 Utilitarianism is an ethical framework that holds that the best course of action is the one that maximizes overall happiness or well-being. In the context of AI, utilitarianism can provide guidance for the development and use of AI systems that maximize social welfare and benefit the greatest number of people.
 
 The Importance of Utilitarianism in AI

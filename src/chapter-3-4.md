@@ -1,5 +1,4 @@
 
-
 Virtue ethics is an ethical framework that emphasizes the importance of developing a virtuous character and acting in accordance with virtues such as honesty, compassion, and fairness. In the context of AI, virtue ethics can provide guidance for the development and use of AI systems that align with our values and promote human well-being.
 
 The Importance of Virtue Ethics in AI

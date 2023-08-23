@@ -1,5 +1,4 @@
 
-
 As artificial intelligence (AI) becomes more prevalent in society, the role of governance and regulation in ensuring its responsible development and use becomes increasingly important. In this chapter, we will explore the role of governance and regulation in AI.
 
 Ensuring Responsible Development and Use of AI

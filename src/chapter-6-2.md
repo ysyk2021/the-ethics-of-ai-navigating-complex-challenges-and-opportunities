@@ -1,5 +1,4 @@
 
-
 As artificial intelligence (AI) becomes increasingly integrated into our daily lives, there are growing concerns about the threats to privacy and security posed by these technologies. In this chapter, we will explore the threats to privacy and security in AI.
 
 Threats to Privacy in AI

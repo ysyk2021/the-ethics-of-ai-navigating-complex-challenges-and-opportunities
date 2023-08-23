@@ -1,5 +1,4 @@
 
-
 As AI technology becomes more prevalent, it is important to understand the potential for bias in AI systems. In this chapter, we will explore the concept of bias in AI, its types, and sources.
 
 Overview of Bias in AI

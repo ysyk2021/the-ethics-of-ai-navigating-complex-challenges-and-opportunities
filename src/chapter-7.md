@@ -1,5 +1,4 @@
 
-
 The Importance of Transparency and Accountability in AI
 -------------------------------------------------------
 

@@ -1,5 +1,4 @@
 
-
 As artificial intelligence (AI) becomes more pervasive in our society, it is essential to consider how these technologies impact issues of fairness and justice. In this chapter, we will explore what fairness and justice mean in the context of AI, how to ensure fairness and justice are upheld and legal considerations.
 
 What is Fairness and Justice in AI?
