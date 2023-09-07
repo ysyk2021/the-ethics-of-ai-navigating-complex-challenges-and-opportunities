@@ -8,3 +8,7 @@ The Ethics of AI is a must-read for anyone interested in the future of technolog
 In this book, you will learn about the fundamental ethical principles that should guide AI development, explore case studies of ethical dilemmas in AI, and discover best practices for developing and using AI responsibly. We hope that this book will inspire thoughtful discussions and actions towards responsible AI development and usage.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
