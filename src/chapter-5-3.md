@@ -1,5 +1,4 @@
-Chapter 3: Legal Considerations
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of Artificial Intelligence (AI), the interplay between technology and the law is becoming increasingly intricate. This chapter delves into the legal considerations surrounding AI, exploring the complex web of regulations, rights, and responsibilities that govern its development and deployment.
 

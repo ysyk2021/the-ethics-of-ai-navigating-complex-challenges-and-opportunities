@@ -1,5 +1,4 @@
-Chapter 3: The Role of Governance and Regulation in AI
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The ethical and societal implications of artificial intelligence (AI) have underscored the need for governance and regulation to navigate the complex challenges and opportunities posed by this technology. This chapter explores the pivotal role of governance and regulation in shaping the AI landscape.
 

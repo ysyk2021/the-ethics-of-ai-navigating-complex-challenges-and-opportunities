@@ -1,5 +1,4 @@
-Chapter 4: Historical Overview of AI
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will take a journey through the rich history of artificial intelligence (AI), tracing its evolution from its inception to the complex and transformative field it has become today. Understanding the historical context of AI is crucial for grasping the ethical challenges and opportunities that lie ahead in this rapidly advancing field.
 

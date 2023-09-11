@@ -1,5 +1,4 @@
-Chapter 5: Ensuring Accountability in AI
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of artificial intelligence (AI), ensuring accountability is a critical component of responsible AI development and deployment. As AI systems become increasingly integrated into our daily lives, it is imperative to establish mechanisms that hold individuals, organizations, and governments accountable for their actions in the realm of AI. This chapter delves into the multifaceted dimensions of ensuring accountability in AI and the various strategies and frameworks that can be employed to achieve this goal.
 

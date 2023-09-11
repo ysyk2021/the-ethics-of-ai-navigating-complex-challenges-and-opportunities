@@ -1,5 +1,4 @@
-Chapter 7: Ensuring Fairness and Justice in AI
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical issue of ensuring fairness and justice in artificial intelligence (AI) systems. As AI becomes increasingly integrated into society, it is essential to address biases and disparities to create equitable and just outcomes.
 

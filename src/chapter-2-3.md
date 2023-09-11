@@ -1,5 +1,4 @@
-Chapter 5: How AI Works
-=======================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the inner workings of artificial intelligence (AI) to provide readers with a foundational understanding of the technology. By demystifying the mechanics of AI, we can better appreciate the ethical challenges and opportunities that arise in its development and deployment.
 

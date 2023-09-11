@@ -1,5 +1,4 @@
-Chapter 4: Safeguards for Privacy and Security in AI
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore essential safeguards and best practices aimed at preserving privacy and security in the realm of artificial intelligence (AI). As AI technologies become more pervasive, understanding and implementing these safeguards are vital to protect individuals and organizations from potential risks and breaches.
 

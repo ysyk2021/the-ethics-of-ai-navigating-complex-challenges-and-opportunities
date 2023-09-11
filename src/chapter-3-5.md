@@ -1,5 +1,4 @@
-Chapter 2: The Ethical Frameworks for AI
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of Artificial Intelligence (AI), understanding and applying ethical frameworks is paramount. This chapter delves into the intricate web of ethical considerations surrounding AI technologies, exploring the various frameworks that guide ethical AI development and deployment.
 

@@ -1,5 +1,4 @@
-Chapter 6: Types of AI
-======================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types and classifications of artificial intelligence (AI) systems. Understanding the different categories of AI is essential for addressing ethical challenges and opportunities specific to each type.
 

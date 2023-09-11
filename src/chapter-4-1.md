@@ -1,5 +1,4 @@
-Chapter 2: Overview of Bias in AI
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will embark on a comprehensive exploration of the pervasive issue of bias in artificial intelligence (AI). As AI technologies become increasingly integrated into our daily lives, it is essential to understand the various dimensions of bias and its profound implications on individuals, societies, and the ethical development of AI systems.
 

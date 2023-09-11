@@ -1,5 +1,4 @@
-Chapter 2: Deontological Ethics in the Age of AI
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Deontological ethics, often referred to as duty-based ethics, is a significant ethical framework that plays a crucial role in navigating the complex challenges and opportunities presented by artificial intelligence (AI). This chapter delves into the principles and applications of deontological ethics in the context of AI, highlighting its relevance and implications.
 

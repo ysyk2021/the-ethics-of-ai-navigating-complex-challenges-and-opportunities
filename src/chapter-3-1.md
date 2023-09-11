@@ -1,5 +1,4 @@
-Chapter 1: Introduction to Ethical Principles in AI
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The rapid advancement of artificial intelligence (AI) has brought about profound transformations in our society, raising complex ethical questions and challenges. This chapter serves as an introduction to the fundamental ethical principles that underpin the discourse surrounding AI ethics in the book "The Ethics of AI: Navigating Complex Challenges and Opportunities."
 

@@ -1,5 +1,4 @@
-Chapter 3: Threats to Privacy and Security in AI
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the multifaceted landscape of privacy and security concerns surrounding artificial intelligence. As AI technologies continue to advance and proliferate, it is crucial to understand the potential threats they pose to individuals, organizations, and society at large.
 

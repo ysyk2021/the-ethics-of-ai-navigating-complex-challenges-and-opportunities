@@ -1,5 +1,4 @@
-Chapter 3: What is Fairness and Justice in AI?
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of artificial intelligence (AI), achieving fairness and justice is a foundational ethical imperative. This chapter explores the complex and multifaceted concepts of fairness and justice in AI, shedding light on their significance, challenges, and implications.
 

@@ -1,5 +1,4 @@
-Chapter 3: Sources of Bias in AI
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the multifaceted sources of bias in artificial intelligence (AI) systems. Understanding where bias can originate is essential to recognize, mitigate, and ultimately address bias in AI effectively. Bias can manifest in various ways, including racial, gender, socioeconomic, and cultural biases, and its presence can have significant ethical, social, and practical implications.
 

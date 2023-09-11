@@ -1,5 +1,4 @@
-Chapter 1: The Importance of Privacy and Security in AI
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this introductory chapter, we will lay the foundation for understanding the critical significance of privacy and security in the realm of artificial intelligence (AI). As AI technologies continue to advance and reshape various aspects of our lives, it becomes imperative to recognize the fundamental role that privacy and security play in ensuring responsible and ethical AI development and deployment.
 

@@ -1,5 +1,4 @@
-Chapter 8: Virtue Ethics in AI
-==============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the ethical framework of virtue ethics and its relevance in the context of artificial intelligence (AI). Virtue ethics focuses on the character and moral virtues of individuals and how they influence ethical decision-making. Understanding virtue ethics can provide valuable insights into the responsible development and deployment of AI systems.
 

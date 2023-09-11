@@ -1,5 +1,4 @@
-Chapter 5: The Future of AI Governance and Regulation
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The rapid advancement of artificial intelligence (AI) has raised significant ethical and societal concerns, leading to the need for robust governance and regulation. This chapter delves into the evolving landscape of AI governance, exploring the challenges, opportunities, and potential future directions.
 

@@ -1,5 +1,4 @@
-Chapter 2: Types of Bias in AI
-==============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of bias that can manifest in artificial intelligence (AI) systems. Bias in AI can have far-reaching consequences, from reinforcing societal prejudices to producing unfair and discriminatory outcomes. By understanding the different dimensions of bias, we can take proactive steps to identify, mitigate, and ultimately eliminate bias in AI applications.
 
